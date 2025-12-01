@@ -1,9 +1,2 @@
-__pycache__/
-*.pyc
-.env
-.pytest_cache/
-venv/
-*.log
-.coverage
-htmlcov/
-.DS_Store
+# Created by pytest automatically.
+*

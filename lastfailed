@@ -1,0 +1,4 @@
+{
+  "tests/test_api.py::test_ingest_json_valid": true,
+  "tests/test_api.py::test_ingest_text_valid": true
+}

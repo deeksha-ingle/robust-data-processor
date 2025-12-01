@@ -1,0 +1,12 @@
+[
+  "tests/test_api.py::test_health_check",
+  "tests/test_api.py::test_ingest_json_invalid_missing_field",
+  "tests/test_api.py::test_ingest_json_valid",
+  "tests/test_api.py::test_ingest_text_missing_header",
+  "tests/test_api.py::test_ingest_text_valid",
+  "tests/test_load_simulation.py::test_live_load_simulation_1000_requests",
+  "tests/test_worker.py::test_health_check",
+  "tests/test_worker.py::test_process_message_invalid_payload",
+  "tests/test_worker.py::test_process_message_missing_fields",
+  "tests/test_worker.py::test_process_message_success"
+]
