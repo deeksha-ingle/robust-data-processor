@@ -1,0 +1,5 @@
+{
+    "tenant_id": "demo-tenant",
+    "log_id": "demo-log-001",
+    "text": "This is a demo log entry from a file. User 555-0199 performed an action."
+}
